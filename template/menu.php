@@ -16,8 +16,8 @@
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li><a href="<?php echo $pathAPP;  ?>index.php">Home</a></li>
-                <li><a href="<?php echo $pathAPP;  ?>/public/about.php">About</a></li>
-                <li><a href="<?php echo $pathAPP;  ?>/public/contact.php">Contact</a></li>
+                <li><a href="<?php echo $pathAPP;  ?>public/about.php">About</a></li>
+                <li><a href="<?php echo $pathAPP;  ?>public/contact.php">Contact</a></li>
                 <li><a href="<?php echo $pathAPP;  ?>videostore.php">Videostore</a></li>
                 <li><a href="<?php echo $pathAPP;  ?>ERA.php">ERA</a></li>
 
